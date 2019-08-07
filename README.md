@@ -8,6 +8,7 @@ Taking tweets of airlines and performing classification for their sentiments.
         Tools used in python:
           - NLTK
           - SentimentIntensityAnalyzer
+          - TfidfVectorizer
           - LinearSVC
           - Logistic Regression
           - Decision Tree
